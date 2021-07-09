@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(209, 217, 219);
+    color: teal;
+    font-family: 'Oswald', sans-serif;;
+    }
+section h1, h2{
+    color: rgb(189, 117, 204);
+}
+ol,ul {
+    font-weight: bold;
+}
+li,p{
+    font-weight: 400;
+}
+.text_center{
+    text-align: center;
+}
+
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline-block;
+    width: 280px;
+}
